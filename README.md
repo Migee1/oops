@@ -1,2 +1,2 @@
-# MLOPS
+# OOPS
 fucking wit DevOps 
